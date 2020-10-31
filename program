@@ -1,0 +1,30 @@
+5.age = prompt("how old are you?");
+if (age <=14){
+    console.log("you are not enough to view this content");
+}
+else if (age > 14){
+    console.log("Enjoy!");
+}
+6.number = prompt("Enter a number");
+if (number<= 9){
+    console.log("lower half of 9 ");
+}
+else if (number > 9){
+    console.log("higher half of 9");
+}
+7.n = prompt("n=");
+x = prompt("x=");
+
+if (n < x){
+    console.log(`${n} is in lower than ${x}`);
+}
+else if (n > x){
+    console.log(`${n} is higher than ${x}`);
+}
+8.x = prompt("x=");
+if (x%2==1){
+    console.log(`${x} là số lẻ`);
+}
+else if (x%2==0){
+    console.log(`${x} là số chẵn`);
+}
