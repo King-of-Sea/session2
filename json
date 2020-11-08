@@ -1,0 +1,26 @@
+{
+  "window.zoomLevel": 0,
+  "git-autoconfig.configList": [
+    {
+      "user.email": ""
+    },
+    {
+      "user.email": "cutybobeo@gmail.com"
+    }
+  ],
+  "workbench.colorTheme": "Shades of Purple",
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "material-icon-theme",
+  "git-autoconfig.ignoreRootList": ["C:/Users/HP WIMDOWS 10"],
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"prettier.useTabs": true
+}
